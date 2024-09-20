@@ -1,3 +1,3 @@
 hola readme
 
-Esta el la prubea de la primera practica
+Esta el la prueba de la primera practica
